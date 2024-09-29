@@ -12,6 +12,11 @@
           path = ./go;
           description = "Golang development.";
         };
+
+        node = {
+          path = ./node;
+          description = "Node development.";
+        };
       };
 
     };
